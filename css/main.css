@@ -1,0 +1,19 @@
+.m-document{
+    float: left;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+}
+.m-document > div {
+    width: 50vw;
+    height: 50vh;
+}
+.left-top{
+    /* width: 100%;
+    height: 100%; */
+}
+.left-bottom{
+    /* width: 100%;
+    height: 100%; */
+}

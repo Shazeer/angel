@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9563ee2c-3c04-43cb-855c-d9689c3d2b36" name="Default Changelist" comment="">
+    <list default="true" id="b71b3a3a-6cbd-41d6-9aa0-1cd4f54050f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/from.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/loginpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.HTML" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -26,10 +41,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\layui-v2.5.5\angel\js" />
+      <recent name="C:\Users\Administrator\Desktop\layui-v2.5.5\angel\css" />
+      <recent name="C:\Users\Administrator\Desktop\layui-v2.5.5\angel\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\layui-v2.5.5\angel\pages" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,12 +74,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9563ee2c-3c04-43cb-855c-d9689c3d2b36" name="Default Changelist" comment="" />
+      <changelist id="b71b3a3a-6cbd-41d6-9aa0-1cd4f54050f3" name="Default Changelist" comment="" />
       <created>1577946049771</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577946049771</updated>
       <workItem from="1577946051069" duration="5945000" />
+      <workItem from="1578282487272" duration="2608000" />
+      <workItem from="1578306115640" duration="3283000" />
+      <workItem from="1578490793125" duration="289000" />
     </task>
     <servers />
   </component>
@@ -65,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

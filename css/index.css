@@ -3,11 +3,32 @@
     margin-right: 0%;
 }
 .titleOne{
-    margin-left: 10%;
+    margin-left: 13%;
 }
 .leftsider{
     margin-top: 60px;
 }
 .menu-side{
     text-align: center;
+}
+.index-document{
+    float: left;
+    width: calc(100vw);
+    height: calc(100vh);
+}
+.index-container{
+    width: 100%;
+    position: fixed;
+    margin-left: 160px;
+    display:block；
+}
+.index-sider{
+    display:block;
+    /* overflow: hidden; */
+}
+.container-iframe{
+    width: 100%;
+    height: 100%;
+    border: none;
+    overflow:hidden;
 }
